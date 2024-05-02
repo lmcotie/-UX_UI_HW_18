@@ -1,0 +1,31 @@
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+    padding:16px;
+}
+ul {
+    list-style-type: none;
+    padding: o;
+    margin: 0;
+}
+#nav {
+    float: right;
+    padding: 20px;
+}
+
+
+
+
+
+p {
+    display:flex;
+    justify-content:center;
+}
+.linkedIn {
+    display:flex;
+    justify-content:center;
+}
